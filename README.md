@@ -1,6 +1,9 @@
 # FlyingHero
- 
+
 FlyingHero is a game in which you play a character who, unfortunately, cannot fly. Your goal is to find 24 hidden objects and to do this you will have to explore and discover places.
+<br></br>
+
+![Screenshot](FlyingHero_thumbgit.PNG)
 <br></br>
 ## Install the game
 
